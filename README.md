@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=jayghevariya&linkedin=jay-ghevariya&twitter=jayghevariya" href="https://linktr.ee/jayghevariya"/>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=jayghevariya&linkedin=Jay-Ghevariya&twitter=jay_ghevariya" href="https://linktr.ee/jayghevariya"/>
 
 - Pronouns: He / Him 👨🏻‍💻 
 - Computer Science Enthusiast.
