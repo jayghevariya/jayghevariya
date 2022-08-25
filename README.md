@@ -87,7 +87,7 @@
 
 <h1 align="center">My Socials :handshake: </h1>
 <p align="center">
-<a href="https://twitter.com/jayghevariya">
+<a href="https://twitter.com/jay_ghevariya">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://linkedin.com/in/jay-ghevariya-49a4581b8/">
