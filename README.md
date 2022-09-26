@@ -3,8 +3,7 @@
 
 - Pronouns: He / Him 👨🏻‍💻 
 - Computer Science Enthusiast.
-- Interested in Blockchain development. :grinning:
-- Currently learning Solidity. 
+- Interested in Machine Learning and Blockchain development. :grinning:
 - I love exploring and learning new skills as well as implement those in my projects.
 - I love taking parts in hackathons. :sunglasses:
 - Traveling , Reading books , Cricket are all my hobbies.
